@@ -1,0 +1,5 @@
+MEJORAR DEL 2SPRT:
+-Contador de checks
+-Número de cada scramble
+-Material design
+-Diseño + friendly & intuitive
